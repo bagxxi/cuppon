@@ -1,0 +1,81 @@
+#logo {
+    height:25px;
+    width: auto;
+
+}
+
+.navbar-brand{
+margin-left: 10%;
+}
+
+.navbar{
+font-family: 'Poppins', sans-serif;
+font-weight: 400;
+}
+
+
+.collapse{
+  margin-left: 50%;  
+}
+
+
+.card{
+  margin:10px;
+}
+
+.precios{
+  text-align: right;
+}
+
+.card-link{
+  text-decoration: none ;
+  color: #707070;
+}
+
+h5{
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+
+}
+
+.card-text{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: #707070;
+
+}
+
+.subtitulo{
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  color: #707070;
+}
+
+.card-link2{
+  text-decoration: none ;
+  color: #28A745;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.formulario{
+  background-color: #28A745;
+}
+
+.leyenda{
+  text-align: center;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: medium;
+}
+
+.copyright{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+
+
